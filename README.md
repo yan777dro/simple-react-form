@@ -1,3 +1,3 @@
 ### a simple react form with validation
-###npm install
-###npm start
+### npm install
+### npm start
